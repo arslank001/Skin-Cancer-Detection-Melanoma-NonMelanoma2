@@ -28,7 +28,8 @@
     "\n",
     "# Load the trained model from your full path\n",
      MODEL_PATH = "melanoma_detector_weights.h5"
-    "model = tf.keras.models.load_model(MODEL_PATH)\n",
+     model = tf.keras.models.load_model(MODEL_PATH)
+
     "\n",
     "# App title\n",
     "st.title(\"Skin Cancer Detection Web App\")\n",
