@@ -27,7 +27,8 @@
     "import os\n",
     "\n",
     "# Load the trained model from your full path\n",
-    "MODEL_PATH = r\"C:\\Users\\Arsalan Khan\\Downloads\\Skin Cancer Detection Classification\\Dataset\\Kaggle\\melanoma_detector_weights.h5\"\n",
+    #"MODEL_PATH = r\"C:\\Users\\Arsalan Khan\\Downloads\\Skin Cancer Detection Classification\\Dataset\\Kaggle\\melanoma_detector_weights.h5\"\n",
+     MODEL_PATH = "melanoma_detector_weights.h5"
     "model = tf.keras.models.load_model(MODEL_PATH)\n",
     "\n",
     "# App title\n",
