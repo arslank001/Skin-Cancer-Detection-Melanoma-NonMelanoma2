@@ -11,7 +11,7 @@ A deep learning-powered web application for detecting **Melanoma** and **Non-Mel
 - 📊 **Displays confidence score**
 - ⚙️ **Trained using ResNet50 with transfer learning**
 - 🧪 **Optimized threshold from ROC curve**
-- ☁️ **Automatically downloads `.h5` model from Google Drive**
+- ☁️ **Automatically downloads `.h5` model from Google Drive/second option is run locally**
 - 📱 **Responsive Streamlit UI**
 
 ---
