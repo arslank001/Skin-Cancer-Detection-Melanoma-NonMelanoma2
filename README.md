@@ -70,10 +70,10 @@ For running of web app on localhosts, run the below given two commands in anacon
 
 ## 📸 Sample Screenshot
 **🔹 Before Prediction**
-![Before Prediction](web_app_images/screenshot_before.png)
+![Before Prediction](web_app_images/screenshot_before.PNG)
 
 **🔹 After Prediction**
-![After Prediction](web_app_images/screenshot_after.png)
+![After Prediction](web_app_images/screenshot_after.PNG)
 
 ---
 
