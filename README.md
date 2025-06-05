@@ -65,10 +65,10 @@ For running of web app on localhosts, run the below given two commands in anacon
 
 📸 Sample Screenshot
 **🔹 Before Prediction**
-![Before Prediction](images/screenshot_before.png)
+![Before Prediction](web app images/screenshot_before.png)
 
 **🔹 After Prediction**
-![After Prediction](images/screenshot_after.png)
+![After Prediction](web app images/screenshot_after.png)
 
 
 🙋 About Melanoma and Non-Melanoma
