@@ -47,7 +47,6 @@ The dataset is balanced and underwent preprocessing, including:
 
 ## 📦 Installation
 
-```bash
 git clone https://github.com/arslank001/skin-cancer-detection-web-app-using-resnet50.git
 cd skin-cancer-detection-web-app-using-resnet50
 pip install -r requirements.txt
@@ -61,7 +60,7 @@ For running of web app on localhosts, run the below given two commands in anacon
 
 ---
 
-🧾 Requirements
+## 🧾 Requirements
 - Python 3.10 or 3.11
 - TensorFlow 2.13.0
 - Streamlit 1.45.1
@@ -69,7 +68,7 @@ For running of web app on localhosts, run the below given two commands in anacon
 
 ---
 
-📸 Sample Screenshot
+## 📸 Sample Screenshot
 **🔹 Before Prediction**
 ![Before Prediction](web app images/screenshot_before.png)
 
@@ -78,13 +77,13 @@ For running of web app on localhosts, run the below given two commands in anacon
 
 ---
 
-🙋 About Melanoma and Non-Melanoma
+## 🙋 About Melanoma and Non-Melanoma
 Melanoma is a dangerous type of skin cancer that develops from pigment-containing cells. Early detection is vital.
 Non-Melanoma skin cancers are more common and less aggressive, but still require medical attention.
 
 ---
 
-✍️ Author
+## ✍️ Author
 Arsalan Tahir
 🔗 LinkedIn
 🐙 GitHub
