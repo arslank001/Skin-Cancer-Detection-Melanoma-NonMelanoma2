@@ -52,16 +52,22 @@ git clone https://github.com/arslank001/skin-cancer-detection-web-app-using-resn
 cd skin-cancer-detection-web-app-using-resnet50
 pip install -r requirements.txt
 
+---
+
 ## 🚀 Run the App
 For running of web app on localhosts, run the below given two commands in anaconda prompt:
   - cd "C:\Users\LENOVO\Desktop\testing skin cancer app\Web App and Connected Model"     (Path where your app.py file and melanoma_model.h5 file must exist)
   - python -m streamlit run app.py
+
+---
 
 🧾 Requirements
 - Python 3.10 or 3.11
 - TensorFlow 2.13.0
 - Streamlit 1.45.1
 - Additional dependencies in requirements.txt
+
+---
 
 📸 Sample Screenshot
 **🔹 Before Prediction**
@@ -70,10 +76,13 @@ For running of web app on localhosts, run the below given two commands in anacon
 **🔹 After Prediction**
 ![After Prediction](web app images/screenshot_after.png)
 
+---
 
 🙋 About Melanoma and Non-Melanoma
 Melanoma is a dangerous type of skin cancer that develops from pigment-containing cells. Early detection is vital.
 Non-Melanoma skin cancers are more common and less aggressive, but still require medical attention.
+
+---
 
 ✍️ Author
 Arsalan Tahir
