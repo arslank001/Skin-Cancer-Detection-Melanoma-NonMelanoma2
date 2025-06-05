@@ -47,9 +47,9 @@ The dataset is balanced and underwent preprocessing, including:
 
 ## 📦 Installation
 
-git clone https://github.com/arslank001/skin-cancer-detection-web-app-using-resnet50.git
-cd skin-cancer-detection-web-app-using-resnet50
-pip install -r requirements.txt
+- git clone https://github.com/arslank001/skin-cancer-detection-web-app-using-resnet50.git
+- cd skin-cancer-detection-web-app-using-resnet50
+- pip install -r requirements.txt
 
 ---
 
