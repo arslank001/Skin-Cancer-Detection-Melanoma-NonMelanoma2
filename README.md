@@ -78,8 +78,8 @@ For running of web app on localhosts, run the below given two commands in anacon
 ---
 
 ## 🙋 About Melanoma and Non-Melanoma
-Melanoma is a dangerous type of skin cancer that develops from pigment-containing cells. Early detection is vital.
-Non-Melanoma skin cancers are more common and less aggressive, but still require medical attention.
+- Melanoma is a dangerous type of skin cancer that develops from pigment-containing cells. Early detection is vital.
+- Non-Melanoma skin cancers are more common and less aggressive, but still require medical attention.
 
 ---
 
